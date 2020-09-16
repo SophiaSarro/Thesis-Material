@@ -27,4 +27,4 @@ Look into Aristotle's Poetics
   Aristarchus was also big on fleshing this out
 Scholiasts like to point out synchronization between what the gods are doing and what the humans are doing
 Critics were likely aware of anachronities, but felt that they didn't need much explanation even if they were pointed out
-εξ αναστροφης - might mean "in reverse order"????
+εξ αναστροφης - might mean "in reverse order"?
