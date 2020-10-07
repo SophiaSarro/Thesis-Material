@@ -26,10 +26,10 @@ From the table:
 |                     |                     | χωριστέον      (5)  |                 |
 
 Averages:
-Marking/Pronouncing = 17.54
-Perceiving = 4.53
-Constructing = 11.96
-Communicating = 10.80
+* Marking/Pronouncing = 17.54
+* Perceiving = 4.53
+* Constructing = 11.96
+* Communicating = 10.80
 
 Δίασταλτέον (one must distinguish) has the most occurances by far. Dionysius Thrax uses the same root three times - διαστολήν and διαστολῆς in section 2, and διάστημα in section 5. Also, separating seems to be a recurring theme in what we're looking at (separate the Homeric from the non-Homeric lines, etc) so this term is definitely worth looking into more. 
 
