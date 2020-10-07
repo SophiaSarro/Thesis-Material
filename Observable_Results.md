@@ -32,4 +32,7 @@ Averages:
 * Communicating = 10.80
 
 Δίασταλτέον (one must distinguish) has the most occurances by far. Dionysius Thrax uses the same root three times - διαστολήν and διαστολῆς in section 2, and διάστημα in section 5. Also, separating seems to be a recurring theme in what we're looking at (separate the Homeric from the non-Homeric lines, etc) so this term is definitely worth looking into more. 
+* It shows up _a conspicuous amount_ with βραχυ
+* It also appears in all sections of the scholia, and in almost every book (except 14, 20, 21)
+* Why is separation such a big deal? What is happening in general? I'm honestly so lost right now.
 
