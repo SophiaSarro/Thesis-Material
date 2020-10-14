@@ -1,10 +1,12 @@
 Zenodotus:
-Zenodotus of Ephesus, who lived during the 3rd century BCE, was the first superintendant of the Library of Alexandria. His critical work on Homer inspired an entire literary tradition - seemingly because his successor, Aristarchus, disagreed with so much of it. Zenodotus took it upon himself to athetize lines of the Iliad and Odyssey that he thought were un-Homeric. Interestingly, he also edited Hesiod's _Theogony_. ***Hesiod isn't an oral tradition; Homer is. Did Zenodotus take this into account? Did he also mark lines as un-Hesiodesque? Look more into his work on the _Theogony_***
+
+* Zenodotus of Ephesus, who lived during the 3rd century BCE, was the first superintendant of the Library of Alexandria. His critical work on Homer inspired an entire literary tradition - seemingly because his successor, Aristarchus, disagreed with so much of it. Zenodotus took it upon himself to athetize lines of the Iliad and Odyssey that he thought were un-Homeric. Interestingly, he also edited Hesiod's _Theogony_. ***Hesiod isn't an oral tradition; Homer is. Did Zenodotus take this into account? Did he also mark lines as un-Hesiodesque? Look more into his work on the _Theogony_***
 
 He notably composed a list called the γλωσσαι of irregular words to supplement his scholarship. This seems similar to the Ἄτακτοι γλῶσσαι written by his teacher, Philitas of Cos. 
 
 Aristarchus:
-Aristarchus of Samothrace lived between 216 BCE and 144 BCE (Schironi, 5, 1). He allegedly taught about forty students, including Ptolemy Physcon and possibly other members of the Ptolemy family. Thus, he had many people to pass on his literary teachings after he died. 
+
+* Aristarchus of Samothrace lived between 216 BCE and 144 BCE (Schironi, 5, 1). He allegedly taught about forty students, including Ptolemy Physcon and possibly other members of the Ptolemy family. Thus, he had many people to pass on his literary teachings after he died. 
 
 Aristarchus' works are preserved in fragment form in the works of other writers. His works ceased to exist shortly after his death, so that "[within] a few generations after his death, his successors at Alexandria were desperately trying to reconstruct and preserve his work" (Schironi, 7, 1). This is partially because his works were not intended for a large audience. Instead, they were composed for other scholars in the Library of Alexandria to use.
 
@@ -18,4 +20,5 @@ Dionysius Thrax:
 * Important: Zenodotus wrote the γλωσσαι, which is allegedly a formal list of unusual words that later scholars used when they cited Zenodotus. When Dionysius Thrax  wrote his third point, about γλωσσῶν τε καὶ ἱστοριῶν, was he referencing Zenodotus' list in particular?
 
 Aristonicus:
-Aristonicus of Alexandria was a Homeric scholar who lived between the late first century BCE and early first century CE. (I can't find the exact years for some reason. Come back to that.) He wrote Περὶ τῶν σημείων τῶν τῆς Ἰλιάδος καὶ Ὀδυσσείας, which explained the uses of the critical signs used by Aristarchus. This work does not exist in full, but a page, thought to be in a minimally altered state from the original, survived in the Venetus A manuscript of the _Iliad_.
+
+* Aristonicus of Alexandria was a Homeric scholar who lived between the late first century BCE and early first century CE. (I can't find the exact years for some reason. Come back to that.) He wrote Περὶ τῶν σημείων τῶν τῆς Ἰλιάδος καὶ Ὀδυσσείας, which explained the uses of the critical signs used by Aristarchus. This work does not exist in full, but a page, thought to be in a minimally altered state from the original, survived in the Venetus A manuscript of the _Iliad_.
