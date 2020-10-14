@@ -17,6 +17,7 @@ Aristarchus allegedly died in Cyprus, possibly in exile. As Ptolemy Physcon exil
  * The Suda is from the 10th c CE. People literal centuries into the future knew all this, down to his father's name and the age at which he died, and yet people just a few generations after him were struggling to reconstruct his works. How was all the biographical stuff preserved? Should I just read the Suda?
 
 Dionysius Thrax:
+
 Important: Zenodotus wrote the γλωσσαι, which is allegedly a formal list of unusual words that later scholars used when they cited Zenodotus. When Dionysius Thrax  wrote his third point, about γλωσσῶν τε καὶ ἱστοριῶν, was he referencing Zenodotus' list in particular?
 
 Aristonicus:
