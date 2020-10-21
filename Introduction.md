@@ -1,1 +1,3 @@
-Before delving into the data and analysis of the material, it is important to explore the origins of said material. Each section of the following thesis will begin with a brief explanation of the life and work... [I'm not phrasing this well.]
+The following thesis covers four 
+
+To conclude, recovering the original wording of Aristarchus is impossible, and this caveat should be constantly kept in mind when dealing with an Aristonicus scholium. Though the content is, with all probability, ascribable to Aristarchus, the actual wording may be not original. Yet the analysis through keywords is a very good procedure with which to track scholia dealing with specific issues and to isolate important critical, exegetical, and grammatical concepts. Readers could thus consider the Greek ‘labels’ which will be so often used in this book as proxies for Aristarchus’ ideas and convenient search- keywords to navigate scholiastic corpora and scholarly Greek literature.
