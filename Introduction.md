@@ -1,0 +1,1 @@
+Before delving into the data and analysis of the material, it is important to explore the origins of said material. Each section of the following thesis will begin with a brief explanation of the life and work... [I'm not phrasing this well.]
