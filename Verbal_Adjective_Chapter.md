@@ -4,4 +4,3 @@ The most frequently occurring verbal adjectives pertain to pronunciation. The mo
 
 In order to better understand the overlap between Dionysius Thrax's methodology and the scholiast's, I have divided the verbal adjectives into three groups in the table below. The first group has the aforementioned words of marking and pronouncing, which maps easily onto Dionysius' first rule. The other two categories map on less directly, but [something something something]...
 
-What can we learn from this? I actually have no fucking clue. So I'm gonna take my meds, contemplate which god-awful choices led me to this point in my life, and come back to this.
