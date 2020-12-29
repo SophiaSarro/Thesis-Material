@@ -4,3 +4,21 @@ The most frequently occurring verbal adjectives pertain to pronunciation. The mo
 
 In order to better understand the overlap between Dionysius Thrax's methodology and the scholiast's, I have divided the verbal adjectives into three groups in the table below. The first group has the aforementioned words of marking and pronouncing, which maps easily onto Dionysius' first rule. The other two categories map on less directly, but [something something something]...
 
+| Marking/Pronouncing   | Scholarly Argument | Editorial Vocabulary
+--------------------------------------------------------------------
+| δασυντέον             | ῥητέον             | ἀθετητέον           |
+| ἐκτατέον              | θετέον             | συντακτέον          |
+| οξυτονητέον           | νομιστέον          | συναπτέον           |
+| ὀξυντέον              | ἐκδεκτέον          | δίασταλτέον         |
+| παροξυντέον           | ποιητέον           | διαιρετέον          |
+| περισπαστέον          | προοιστέον         | γραπτέον            |
+| προπερισπαστέον       | λεκτέον            | ἀποδοτέον           |
+| προπαροξυτομητέον     | ἀρκτέον            | τηρητέον            |
+| προσπνευστέον         | ληπτέον            |                     |
+| προενεκτέον           | μεταληπτέον        |                     |
+| στηκτέον              | πιστέον            |                     |
+| συσταλτέον            |                    |                     |
+| ὑποστικτέον           |                    |                     |
+| βαρυτονητέον          |                    |                     |
+| ψιλωτέον              |                    |                     |
+| ἐγκλιτέον             |                    |                     |
