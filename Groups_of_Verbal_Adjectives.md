@@ -35,3 +35,5 @@ From what I can tell, πολεμητέον and φυλακτέον would only b
 
 
 I still can't find ξενιστέον or συνσπτέον.
+
+74 in total.
