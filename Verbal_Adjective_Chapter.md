@@ -7,9 +7,13 @@ Currently, the Art of the Grammarian contains twenty-five separate sections, eac
 
 Dionysius' first rule states that a grammarian must be proficient in ανάγνωσίς (anagnosis). In the specific context of literary criticism, ανάγνωσίς refers to reading the text aloud. Before a grammarian can fully understand a text, or even progress to the next steps towards understanding, Dionysius asserts that they must be able to recite the text orally. In the second section, he elaborates that reading aloud ensures that the grammarian is familiar with the tone, prosody, and pauses (καθ᾽ ὑπόκρισιν, κατὰ προσῳδίαν, κατὰ διαστολήν), as well as with the words themselves.
 
-While the scholiast of the Venetus A manuscript does not format his methodology in a list like Dionysius, he spells it out for his readers through the use of verbal adjectives ending in -τεον. [This form conveys that something must be done.] Out of the seventy-six different verbal adjectives which appear in the scholia, seventy-four of them refer to what the scholiast thinks a person must do in order to understand the text. (The remaining two, and , refer to actions which must be taken within the context of the story.)
+While the scholiast of the Venetus A manuscript does not format his methodology in a list like Dionysius, he spells it out for his readers through the use of verbal adjectives ending in -τεον. [This form conveys that something must be done.] Out of the seventy-six different verbal adjectives which appear in the scholia, seventy-four of them refer to what the scholiast thinks a person must do in order to understand the text. (The remaining two, πολεμητέον and φυλακτέον, refer to actions which must be taken within the context of the story.)
 
 From the seventy-four verbal adjectives of interest, I have made three main categories: Marking/Pronouncing, Scholarly Argument, and Editorial Vocabulary. Of these three, only the Marking/Pronouncing category maps neatly onto Dionysius' methodology; specifically, every verbal adjective under that category corresponds with Dionysius' first rule. Interestingly, both Dionysius and the Venetus A scholiast seem to hold this step of the process in high regard. Whereas Dionysius showed its importance by placing it first in his list, the Venetus A scholiast conveyed the same idea by using eighteen separate verbal adjectives to say "one must the text correctly."  Notably, the scholiast also touches upon all three of Dionysius' criteria for a proper reading (ὑπόκρισιν, προσῳδίαν, and διαστολήν) as well as adding a fouth category, aspiration.
+
+[I have something that I want to get across here, but I'm not quite sure how to phrase it.] In terms of reading aloud, the Venetus A scribe pays a disproportionate amount of attention to accentuation. This makes sense, as by the Byzantine period, tonal accents had been phased out of spoken Greek. However, as "accentuation deserves as much attention as any other feature, if the attempt is made to accustom the ear to the sound of a language," a scholar could not hope to effectively read the Iliad - and thus, to analyze it - unless the accents were in their proper places (Sealey 1963). [RESTORATION]
+
+While no other similarity between the Venetus A scholiast's and Dionysius Thrax's methodology emerges quite as prominently, 
 
 
 
@@ -33,7 +37,7 @@ From the seventy-four verbal adjectives of interest, I have made three main cate
 | ἐγκλιτέον             |                    |                     |
 | ἀναστρεπτέον          |                    |                     |
 | ἀτενιστέον            |                    |                     |
-|                       |                    |                     |
+
 
 
 |   Tone          |   Prosody   |   Pauses   | Aspiration |
@@ -45,10 +49,6 @@ From the seventy-four verbal adjectives of interest, I have made three main cate
 |προπερισπαστέον  |             |            |            |
 |προπαροξυτομητέον|             |            |            |
 |βαρυτονητέον     |             |            |            |
-|                 |             |            |            |
-|                 |             |            |            |
-|                 |             |            |            |
-|                 |             |            |            |
 
 
 [Concluding Paragraph]
