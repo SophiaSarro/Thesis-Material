@@ -1,4 +1,4 @@
-Before exploring the development, transmission, and appropriation of Aristarchan critical signs, it is important to establish how certain key figures contributed to their development and preservation. 
+Before exploring the development, transmission, and appropriation of Aristarchan critical signs, it is important to establish how certain key figures contributed to their development and preservation. Just as Aristarchus and company took a critical approach to examining the _Iliad_, we as scholars must approach these critical works exegetically. 
 
 Zenodotus:
 
