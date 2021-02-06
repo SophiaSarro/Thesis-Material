@@ -19,7 +19,8 @@ Aristarchus allegedly died in Cyprus, possibly in exile. As Ptolemy Physcon exil
 
 Dionysius Thrax:
 
-Based on his one surviving work, The Art of the Grammarian, Dionysius took a different approach to scholarship than the aforementioned grammarians. Whereas they integrated their critiques into editions of the _Iliad_, or based separate works upon those editions (see: Zenodotus' Glossai), the Art of the Grammarian is far less intertwined with the subject matter. He does mention Homeric work periodically, such as when he explains the origins of the word ραπσοδιαν, or when he explains the of Achilles' patronymic. 
+Based on his one surviving work, The Art of the Grammarian, Dionysius took a different approach to scholarship than the aforementioned grammarians. Whereas they integrated their critiques into editions of the _Iliad_, or based separate works upon those editions (see: Zenodotus' Glossai), the Art of the Grammarian is far less intertwined with the subject matter. He does mention Homeric work periodically, such as when he explains the origins of the word ραπσοδιαν, or when he explains the of Achilles' patronymic. However, compared to Aristarchus and Zenodotus, Dionysius Thrax c
 
 Aristonicus:
+
 Aristonicus of Alexandria was a Homeric scholar who lived between the late first century BCE and early first century CE. (I can't find the exact years for some reason. Come back to that.) He wrote Περὶ τῶν σημείων τῶν τῆς Ἰλιάδος καὶ Ὀδυσσείας, which explained the uses of the critical signs used by Aristarchus. This work does not exist in full, but a page, thought to be in a minimally altered state from the original, survived in the Venetus A manuscript of the _Iliad_.
