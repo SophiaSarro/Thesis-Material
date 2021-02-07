@@ -19,7 +19,9 @@ With the works of Aristarchus disappearing from the earth, and their originator 
 
 Dionysius Thrax:
 
-Based on his one surviving work, The Art of the Grammarian, Dionysius took a different approach to scholarship than the aforementioned grammarians. Whereas they integrated their critiques into editions of the _Iliad_, or based separate works upon those editions (see: Zenodotus' Glossai), the Art of the Grammarian is far less intertwined with the subject matter. He does mention Homeric work periodically, such as when he explains the origins of the word ραπσοδιαν, or when he explains the of Achilles' patronymic. However, compared to Aristarchus and Zenodotus, Dionysius Thrax c
+One of the ways the Aristarchan tradition survived was through his students (with the exception of Ptolomy Physcon, of course). 
+
+Based on his one surviving work, The Art of the Grammarian, Dionysius took a different approach to scholarship than the aforementioned grammarians. Whereas they integrated their critiques into editions of the _Iliad_, or based separate works upon those editions (see: Zenodotus' Glossai), the Art of the Grammarian is far less intertwined with the subject matter. He does mention Homeric work periodically, such as when he explains the origins of the word ραπσοδιαν, or when he explains the of Achilles' patronymic. Unlike later grammarians, Dionysius saw no need to replicate Aristarchus' works and fill in the many gaps. 
 
 Aristonicus:
 
