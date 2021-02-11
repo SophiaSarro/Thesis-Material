@@ -6,6 +6,8 @@ Section 1: Introduction
 
 Section 2: Topic Models of Diplomatic Edition
 
+
+
 Section 3: Topic Models of Standardized Edition
 
 Section 4: Combine Them
