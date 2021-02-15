@@ -7,10 +7,13 @@ Commenting on Iliad 1.189
 ητοι στικτεον επι το ερεω , η βραχυ διασταλτεον εαν μεν ουν στιζωμεν εσται το λεγομενον τουτο δε τετελεσθαι υπολαμβανω εαν δε διαστελλωμεν εσται ο δε κειμενος αντι του δη και το το αντι υποτακτικου του ο ·
 urn:cts:greekLit:tlg5026.msA.hmt:1.595
 Commenting on Iliad 1.204
+Now one must put a comma after ερεω...
+
 
 οτι εκ του εναντιου το εναντιον ακουστεον ουκ εγηθησεν αλλ ελυπηθη ⁑
 urn:cts:greekLit:tlg5026.msA.hmt:1.928
 Commenting on Iliad 1.330
+[The sign is there] because one must hear [understand?] εναντιου as εναντιον and not rejoice, but grieve.
 
 σελευκος εν τῃ πολυστιχω· γραφει αναιδεος ευεπιφορον γαρ ειναι τον αχιλλεα εις το αναιδη καλειν τον αγαμεμνονα αιεν αναιδειην επιειμενε κερδαλεοφρον , απεινη δε καλει τον αγαμεμνονα δια τα εις αυτον πεπραγμενα διασταλτεον δε μετα το απηνεος ⁑
 urn:cts:greekLit:tlg5026.msA.hmt:1.935
@@ -27,6 +30,7 @@ Commenting on Iliad 1.567
 στικτεον κατα το τελος περιοδον γαρ αυτοτελη ο στιχος εχει και το πρεπον της εγκελευσεως δια του ασυνδετου φαινεται ⁑
 urn:cts:greekLit:tlg5026.msA.hmt:2.9
 Commenting on Iliad 2.8
+One must put a comma near τελος around the ending. The comma is also to be seen [by the εγκελευσεως] which appear unconnected.
 
 ορθοτονητεον την σευ αντιδιεσταλται γαρ προς τον αχιλλεα οτι προκειται του ρηματος η αντωνυμια ⁑
 urn:cts:greekLit:tlg5026.msA.hmt:2.25
@@ -714,10 +718,12 @@ Commenting on Iliad 2.110
 συσταλτεον το ϊ του υπερμενεϊ ⁑
 urn:cts:greekLit:tlg5026.msAint.hmt:2.193
 Commenting on Iliad 2.116
+One must pronounce the ϊ in υπερμενεϊ short.
 
 ομοιως τον η περισπαστεον ⁑
 urn:cts:greekLit:tlg5026.msAint.hmt:2.461
 Commenting on Iliad 2.291
+Like on τον, one must mark with a circumflex.
 
 τελεια στικτεον μετα την κλητικην και γαρ τα εξης ασυνδετα καλεουσιν αρ ⁑
 urn:cts:greekLit:tlg5026.msAint.hmt:3.387
@@ -726,22 +732,30 @@ Commenting on Iliad 3.250
 στικτεον μετα το βαλων ⁑
 urn:cts:greekLit:tlg5026.msAint.hmt:5.6064
 Commenting on Iliad 5.208
+ἀτρεκὲς αἷμ᾽ ἔσσευα βαλών, ἤγειρα δὲ μᾶλλον.
+One must put a period with βαλών
 
 προς την αναγνωσιν οτι ουτ προς ενεκτεον ⁑
 urn:cts:greekLit:tlg5026.msAint.hmt:8.175
 Commenting on Iliad 8.233
+Τρώων ἄνθ᾽ ἑκατόν τε διηκοσίων τε ἕκαστος
 
 το αμοπαονα εν ενι με λογου αναγνωστεον κυριον γαρ ⁑
 urn:cts:greekLit:tlg5026.msAint.hmt:8.201
 Commenting on Iliad 8.276
+καὶ Πολυαιμονίδην Ἀμοπάονα καὶ Μελάνιππον,
+Amopan was powerful in regards to reckoning, one must have read. [Clearly this is wrong, I'm coming back to this one.]
 
 συναπτεον εως του γεραιε :
 urn:cts:greekLit:tlg5026.msAint.hmt:10.1535
 Commenting on Iliad 10.164
+‘σχέτλιός ἐσσι γεραιέ: σὺ μὲν πόνου οὔ ποτε λήγεις.
+One must unite [the syllables?] of γεραιε.
 
 στικτεον επι το ανακτα .
 urn:cts:greekLit:tlg5026.msAint.hmt:13.164v1
 Commenting on Iliad 13.28
+Put a comma near ανακτα.
 
 οτ εξωθεν ακουστεον το ως ιν' η ως κωδειαν ⁑
 urn:cts:greekLit:tlg5026.msAint.hmt:14.F1
@@ -836,6 +850,8 @@ Commenting on Iliad 15.138
 ειτε συνθετεον εστιν ειτε παρα συνθετον παροξυτονητεον εις ϊδιοτητα ⁑
 urn:cts:greekLit:tlg5026.msA.hmt:16.208v10
 Commenting on Iliad 16.150
+0τοὺς ἔτεκε Ζεφύρῳ ἀνέμῳ Ἅρπυια Ποδάργη
+Either one must compound or....
 
 απιθανον φασι και αμετρον το της υπερβολης ρητεον δε , ως ουκ εστιν ο γαρ της αιγιδος φοβος ην επεσεισεν η αθηνα και το καιομενον πυρ εκπληξιν τοσαυτην παρεσχεν ωστε αυτους υφ' εαυτων υπο ταραχης απολεσθαι ⁑
 urn:cts:greekLit:tlg5026.msA.hmt:18.82
@@ -844,6 +860,7 @@ Commenting on Iliad 18.230
 εκτατεον δια το μετρον :
 urn:cts:greekLit:tlg5026.msAil.hmt:9.492
 Commenting on Iliad 9.506
+One must pronounce it long by [the measurement]
 
 ‡υποστικτεον επι το γε στικτεον δε κατα το τελος του στιχου ⁑
 urn:cts:greekLit:tlg5026.msAim.hmt:1.1042
@@ -851,6 +868,7 @@ urn:cts:greekLit:tlg5026.msAim.hmt:1.1042
 βραχυ διασταλτεον επι το χαλκεον κοινον γαρ το αμφ ωμοισι βαλετο και επι του σακους ⁑
 urn:cts:greekLit:tlg5026.msAim.hmt:3.748
 Commenting on Iliad 3.335
+χάλκεον, αὐτὰρ ἔπειτα σάκος μέγα τε στιβαρόν τε:
 
 βραχυ διασταλτεον μετα το λαβετον ινα το εξης πευστικως λεγηται :
 urn:cts:greekLit:tlg5026.msAim.hmt:10.4643
@@ -983,6 +1001,7 @@ Commenting on Iliad 7.282
 παροξυντεον μεσος γαρ εστι β αοριστοσ·
 urn:cts:greekLit:tlg5026.msA.hmt:7.2010
 Commenting on Iliad 7.282
+One must put an accute accent on μεσος because it is the second aorist.
 
 ενικλαν εμποδιζειν η μεταφορα απο των εις τας ασπιδας αποθραυομενων δορατων· ουτως δε γραπτεον οττι κεν ειπω οιον κατακαμπτειν και μη εαν τα υπ εμου ειρημενα και παλιν εξης εν οις η ϊρις φησιν οττι κεν ειπῃ γραφεται ⁑
 urn:cts:greekLit:tlg5026.msA.hmt:8.261
@@ -1003,14 +1022,16 @@ Commenting on Iliad 11.802
 δασυντεον το αδιναων απο γαρ του αδην και αδηνος η κινησις :
 urn:cts:greekLit:tlg5026.msAim.hmt:2.134
 Commenting on Iliad 2.87
+One must aspirate αδιναων to separate αδην and αδηνος.
 
 συσταλτεον το ϊ του υπερμενεϊ ⁑
 urn:cts:greekLit:tlg5026.msAint.hmt:2.193
 Commenting on Iliad 2.116
+One must pronounce the ϊ in υπερμενεϊ short 
 
 ψιλωτεον το αγανος τοιουτο γαρ το α προ του γ ⁑
 urn:cts:greekLit:tlg5026.msAint.hmt:2.286
 Commenting on Iliad 2.164
-
+One must write αγανος with an alpha before the gamma
 
 No verbal adjectives co-occur with the antisigma, dotted antisigma, or reverse dotted antisigma
