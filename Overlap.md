@@ -1,4 +1,4 @@
-Diple With Verbal Adjectives:
+**Diple With Verbal Adjectives:**
 
 οτι δυο εμεριμνησεν ουκ εναντια αλληλοις οπερ εκλαβων τις προσεθηκεν ηε χολον παυσειεν · βραχυ δε διασταλτεον επι το μερμηριξεν ο γαρ λογος διχως ελογισατο τους μεν αναστησαι· τον δε αγαμεμνονα ανελειν ⁑
 urn:cts:greekLit:tlg5026.msA.hmt:1.555
@@ -779,7 +779,6 @@ Commenting on Iliad 8.233
 urn:cts:greekLit:tlg5026.msAint.hmt:8.201
 Commenting on Iliad 8.276
 καὶ Πολυαιμονίδην Ἀμοπάονα καὶ Μελάνιππον,
-Amopan was powerful in regards to reckoning, one must have read. [Clearly this is wrong, I'm coming back to this one.]
 
 συναπτεον εως του γεραιε :
 urn:cts:greekLit:tlg5026.msAint.hmt:10.1535
@@ -808,7 +807,7 @@ Commenting on Iliad 16.317
 urn:cts:greekLit:tlg5026.msAint.hmt:24.C2
 Commenting on Iliad 24.74
 
-Dotted Diple with Verbal Adjectives:
+**Dotted Diple with Verbal Adjectives:**
 
 ητοι στικτεον επι το ερεω , η βραχυ διασταλτεον εαν μεν ουν στιζωμεν εσται το λεγομενον τουτο δε τετελεσθαι υπολαμβανω εαν δε διαστελλωμεν εσται ο δε κειμενος αντι του δη και το το αντι υποτακτικου του ο ·
 urn:cts:greekLit:tlg5026.msA.hmt:1.595
@@ -921,7 +920,7 @@ Commenting on Iliad 2.116
 urn:cts:greekLit:tlg5026.msAint.hmt:3.387
 Commenting on Iliad 3.250
 
-Obelos with Verbal Adjectives:
+**Obelos with Verbal Adjectives:**
 
 του σφισιν την πρωτην οξυτονητεον επειδηπερ εις συνθετον η μεταληψις ει και ουκ εστι διηνεκης ο λογος εστι γαρ τινα εναντιουμεθα ενα τους δ' αναγον ζῳους σφισιν εργαζεσθαι αναγκῃ · σφισι δ' αυτοις δαιτα πενεσθαι · και οτι μετα προθεσεως εστιν οταν γαρ προθεσις ῃ μετα αντωνυμιας ορθοτονειται η αντωνυμια· συν σοι δια θεα προτι οι δ' ελαβ' εντεα κατα σφεας γαρ μαχεοιντο · απο εο καββαλεν αμφι ε παπτηνας του αλτ' επι οι μεμαως ζητησιν εχοντος ⁑
 urn:cts:greekLit:tlg5026.msA.hmt:1.998
@@ -1014,12 +1013,15 @@ Commenting on Iliad 2.77
 προ τουτου διαστο θετεον ανεστραπται γαρ ο λογ ⁑
 urn:cts:greekLit:tlg5026.msAim.hmt:3.767
 Commenting on Iliad 3.402
+εἴ τίς τοι καὶ κεῖθι φίλος μερόπων ἀνθρώπων:
 
 ψιλωτεον το αγανος τοιουτο γαρ το α προ του γ ⁑
 urn:cts:greekLit:tlg5026.msAint.hmt:2.286
 Commenting on Iliad 2.164
+σοῖς ἀγανοῖς ἐπέεσσιν ἐρήτυε φῶτα ἕκαστον,
+One must write αγανος this way, with an α in front of the γ
 
-Asteriskos With Verbal Adjectives:
+**Asteriskos With Verbal Adjectives:**
 
 ουκ αναστρεπτεον την προθ ως τυραννιων και πτολεμαιος . οποτε γαρ γενικῃ συνταττεται η απο τηρει τον τονον : και γαρ τις θ' ενα μηνα μενων απο ης αλοχοιο ⁑
 urn:cts:greekLit:tlg5026.msA.hmt:2.273
@@ -1036,7 +1038,7 @@ Commenting on Iliad 7.282
 παροξυντεον μεσος γαρ εστι β αοριστοσ·
 urn:cts:greekLit:tlg5026.msA.hmt:7.2010
 Commenting on Iliad 7.282
-One must put an accute accent on μεσος because it is the second aorist.
+  One must put an accute accent on μεσος because it is the second aorist.
 
 ενικλαν εμποδιζειν η μεταφορα απο των εις τας ασπιδας αποθραυομενων δορατων· ουτως δε γραπτεον οττι κεν ειπω οιον κατακαμπτειν και μη εαν τα υπ εμου ειρημενα και παλιν εξης εν οις η ϊρις φησιν οττι κεν ειπῃ γραφεται ⁑
 urn:cts:greekLit:tlg5026.msA.hmt:8.261
