@@ -1,5 +1,3 @@
-[This will be filled in within the week, I swear]
-
 Topic models are statistical models wherein frequently co-occurring words are sorted into "clusters" by a computer. These topic clusters do not have inherent meanings, as the computer does not take the definitions of the words into account; however, humans can assign meanings to the clusters once the computer is done sorting them. While topic modeling began as a purely mathematical endeavor, it has been embraced by the field of digital humanities in recent years as a new method to analyze written texts, as the topic models may display patterns that would not be noticeable otherwise.
 
 I have used topic modeling to sort all of the scholia in the Venetus A manuscript in two different forms: the diplomatic edition, and the [standardized?] edition. 
