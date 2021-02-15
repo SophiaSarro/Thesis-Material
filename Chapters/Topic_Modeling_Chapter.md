@@ -13,4 +13,6 @@ When topic modeling the diplomatic edition, I have favored the results that come
  
 Clearly, these topics both center around Aristarchus. However, they do not feature him in the same light. Placing his name next to οξειαν, βαρυνεται, and ασκαλωνιτης, the former topic seems to highlight Aristarchus' marking/pronouncing comments. The latter topic, by juxtaposing his name with ζηνοδοτος, ποιητῃ, and λεγειν seems to suggest a cross-temporal discussion between the alleged Homer's work, what Zenodotus wrote, and what Aristarchus wrote in response.
 
+[Where is the standardized edition?]
 
+One advantage to working with texts digitally is that research is far less [not isolated, but what??] than it used to be. Unlike previous publications, wherein my results would have been the "final word" on the subject, I can readily provide the tools for other scholars to challenge and expand upon my findings on this front. In order to create the topic models, I used [this software by David Mimno](https://mimno.infosci.cornell.edu/jsLDA/jslda.html), with [this list of words to sort]() and [this stopwords list](). 
