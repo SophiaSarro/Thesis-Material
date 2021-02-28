@@ -1,7 +1,9 @@
-Brief introduction, I guess.
+Here are a couple of notes on the dry run, because I can't name a single respect in which that could have gone worse.
 
-What are verbal adjectives?
+First of all, this takes place on a computer. There's a clock on the top of my screen. USE IT. It sounds like I won't be expected to look out into the audience, so nothing is really lost from a couple of glances upwards. From what I could tell, the presentation - if I could really call it that - on Friday was entirely too short, and half of it was me stammering. I need to speak slower. And for the love of all things holy, if I can't think of what to say next, I NEED TO CLOSE MY MOUTH. 
 
-How do they relate to Dionysius?
+Second of all, I'm reworking all of my slides. I need more examples, and those examples need pictures from the manuscript. I'll also add actual quotes + translations of Dionysius, instead of vaguely saying "Dionysius thought this" and expecting the audience to believe me. Also, the formatting of Table A isn't great. Honestly, I'm not sure if there's anything I can do about that at this point, but I'll try reformatting it if I can figure out how.
 
-Progression from group 1 to group 2 to group 3
+Also, what was the structure of that presentation supposed to be?? Start with a basic thesis statement. Then, work through the sections of the chapter. Finally, sum it up with a concluding sentence. I literally have all of these ideas written out and formatted already. It really shouldn't be that hard.
+
+Really, what was that??? If Professor Smith and Professor Bird haven't already wondered if they're wasting their time on me, they're certainly wondering now. I really just don't get how I messed up so badly. I had everything written out for the chapter, in more detail than I actually needed for the conference. I only needed to fill fifteen minutes. It was supposed to be informal. I'm slightly concerned that, even with all these steps for improvement written out, I still can't pinpoint the largest factor in what went wrong. Even if my timing was off, and my structure needed improvement, and my slides needed reworking, I still should have been able to say something half-decent. I should have been able to _get words out_, at least. What was I doing??? There's really no good way to end this. I'll do better next week.
