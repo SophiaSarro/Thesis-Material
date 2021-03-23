@@ -1,16 +1,8 @@
-Subsections:
+While close reading of scholia is an integral facet of my research, as evidenced by the Verbal Adjective chapter, it does not need to be the only component. In prior decades, this would not be the case: research of scholia was limited to transcriptions and close readings, fit within the short span of time that a scholar could occupy space in a manuscript library. However, due to the recent digitization of the Venetus A manuscript, I can take advantage of a process called topic modeling and analyse scholia in a way other than close reading.
+ 
+Topic modeling is a form of natural language processing which forms a statistical model of the “topics” which occur in any given corpus. A computer forms these “topics” by grouping the units - words or n-grams, depending on the model - which co-occur the most frequently. This process is known as text-mining, and allows scholars to discover recurring semantic structures throughout the corpus which would not otherwise be readily recognizeable. Additionally, the use of topic modeling allows me to make observations about the entire corpus of scholia in the Venetus A manuscript without doing a close reading of all 14,336 of them. While this task would almost certainly yield interesting results, it simply was not a feasible goal for one component of a year-long project.
 
-Intro to Topic Modeling:
-While Homeric scholarship has been going on for thousands of years, recent technological advancements have allowed scholars to analyze the _Iliad_ as never before. One such advancement is the development of topic modeling, a method of statistical analysis in which words in a given corpus are arranged into topics based on the frequency of their co-occurrence. As counting the co-occurrences between every word in the scholia manually would take years, having a computer do it in a matter of seconds allows scholars to view patterns that may not have been visible before. 
+Another advantage of topic modeling is that it yields empirical and replicable results. Anyone who wants to replicate or build off of the findings in this paper can use the lists of words included with this thesis*, as well as the stop words list, in order to get their own results. The stop words list is a collection of words which the computer is ordered to ignore when making its statistical models. For instance, articles and particles will appear evenly throughout the text regardless of context; for this reason, they are not important to include in the topic models, and thus are placed on the stop words list and filtered out. The different lists of words, meanwhile, display the different stages of topic modeling explored in this thesis. List A, as included at the end of this thesis, is a list of every word used in the Venetus A scholia, provided by Professor Smith. Lists B, C, D, and E contain every word in a scholion marked with a diple, a dotted diple, an asteriskos, and an obelos respectively. 
 
-Topic Modeling With All the Scholia:
+Additionally, each list can yield different results, depending on how it is divided. For the initial topic models of each list, the scholia were divided word by word - that is to say, each word constituted a unit. Subsequent topic models were constructed with n-grams, which are simply strings of words that appear next to each other. Topic models were made with both bi-grams (units consisting of two words) and tri-grams (units consisting of three words). While I was not initially sure if tri-grams would produce any meaningful results, or if clumping too many words together would obscure the meanings of the clusters, it was worth trying.
 
-The first step in our topic modeling journey was to topic model all of the words in the scholia, minus a select set we call "stop words." These stop words include articles, particles, and other words that appear in almost any context, so that tracking their co-occurences would be useless. 
-
-Topic Modeling With N-Grams:
-
-
-Topic Modeling With Critical Signs:
-
-
-Conclusion???
