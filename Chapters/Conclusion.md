@@ -1,5 +1,1 @@
-Things I Have to Say in Conclusion:
-
-State our findings
-
-I'll come back to this when my brain decides to work because dear God, I can barely remember where I am right now.
+Through close readings of the scholia and topic modeling, I identified many literary-critical interests shared between the Venetus A scholiast and the earlier followers of the Aristarchan tradition.  This finding suggests that the Venetus A scholiast took much inspiration from the followers of Aristarchus, and explain's the choice of having _On the Critical Signs of the Iliad and the Odyssey_ at the front of the manuscript. 
