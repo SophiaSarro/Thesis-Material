@@ -1,4 +1,4 @@
-Introduction to Topic Modeling:
+**Introduction to Topic Modeling:**
 
 While close reading of scholia is an integral facet of my research, as evidenced by the Verbal Adjective chapter, it does not need to be the only component. In prior decades, this would not be the case: research of scholia was limited to transcriptions and close readings, fit within the short span of time that a scholar could occupy space in a manuscript library. However, due to the recent digitization of the Venetus A manuscript, I can take advantage of a process called topic modeling and analyse scholia in a way other than close reading.
  
@@ -6,16 +6,16 @@ Topic modeling is a form of natural language processing which forms a statistica
 
 Another advantage of topic modeling is that it yields empirical results. Anyone who wants to replicate or build off of the findings in this paper can use the lists of words included with this thesis, as well as the stop words list, in order to get their own results. The stop words list is a collection of words which the computer is ordered to ignore when making its statistical models. For instance, articles and particles will appear evenly throughout the text regardless of context; for this reason, they are not important to include in the topic models, and thus are placed on the stop words list and filtered out. The different lists of words, meanwhile, display the different stages of topic modeling explored in this thesis. 
 
-The Initial Model:
+**The Initial Model:**
 
 My initial topic model was created using the list labeled All Words, which fittingly contains all words included in the scholia. 
 
 
-The Updated Model:
+**The Updated Model:**
 
 While my initial model was promising, there were several issues with it that I sought to correct. Firstly, as the words had not yet been tokenized, different forms of the same name (i.e. Αρισταρχος, Αρισταρχ) were counted as separate tokens. Thus, if the name were to appear as a key word, it might take up two spots instead of one, taking the spot from another word which would have given us a more well-rounded understanding of the topic. Ideally, I would have been able to tokenize every word in order to avoid this; unfortunately, that was not possible due to time constraints. It was possible, however, to replace each person and place name with their URN tag. Within the digital edition of the Venetus A, every person, place, and ethnic group is assigned its own URN tag. This way, a search of the person's tag could yield all of their appearances, even if they were referred to by two different names (Achilles, son of Peleus). Replacing each occurance of a person's name with their URN would eliminate some of the unnecessary repetition.
 
-Topic Modeling With Critical Signs:
+**Topic Modeling With Critical Signs:**
 
 Building off of the last chapter of this thesis, I also created topic models incorporating the verbal adjectives, and their co-occurence with the Aristarchan critical signs. As was previously established, the verbal adjectives tell what a scholar should do, according to the scholiast, when reading and analysing the texts. The critical signs serve a similar purpose, explaining the literary critics's thought process while creating a critical edition. Both the critical signs and the verbal adjectives point to literary-critical interests which were deemed important during the creation of the Venetus A. Thus, I wanted to see how these features of the text worked in tandem. I created a topic models of the scholia including verbal adjectives based on whether they were marked with a diple, a dotted diple, an asteriskos, or an obelos. (There are no scholia which contain a verbal adjective and are marked with an antisigma, a dotted antisigma, or a reverse dotted antisigma.) 
 
