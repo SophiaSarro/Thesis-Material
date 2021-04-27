@@ -1,4 +1,4 @@
-Introduction to the Verbal Adjective:
+**Introduction to the Verbal Adjective:**
 
 When studying the literary-critical interests of a scholiast, it only makes sense to do a close reading of the scholia he wrote. However, as the Venetus A manuscript houses 14,336 scholia, I could not hope to read and analyze and sort all of them as just one part of a one-year project. If I wanted to accomplish anything, I first had to select a group of scholia to focus on - the question was, which group of scholia would yield meaningful results?
 
@@ -25,7 +25,7 @@ Sixth, krisis of the poems, which is the most beautiful aspect of the art
 
 Confirming that this categorization is not arbitrary, each of the three categories counts as a distinct phase in the creation of a critical edition. That is to say, Dionysius' first component, the only component in the Oral Reading category, has to take place before any of the others. Upon moving to the Scholarly Work category, a grammarian could perform any of the four components therein in any order. All four of them must be completed, however, until the scholar can move onto krisis, the only step in the Editorial Work category. 
 
-Oral Reading:
+**Oral Reading:**
 
  Dionysius breaks down the process of _ἀνάγνωσις_ into three separate subcategories: delivery (_ὑπόκρισιν_), prosody (_προσῳδίαν_), and pauses (_διαστολήν_). The latter two categories can be, and frequently are, alluded to by the Venetus A scholiast as well. In his commentary on Dionysius, George Choroboskos claimed that prosody can be further broken down into three categories: tone, length, and breathing. All three of these appear as concerns of the Venetus A scholiast, as evidenced by Table B. In fact, the only facet of _ἀνάγνωσις_ that the scholiast overlooks is delivery (_ὑπόκρισιν_). This would definitely be the hardest to communicate in a written format. Dionysius, by divorcing his work from any given edition of the _Iliad_, gave himself the freedom to go as in-depth as he desires with basic concepts such as _ὑπόκρισιν_; however, just as the Venetus A scholiast would not pause to explain what a vowel is, like Dionysius does, he likewise cannot pause in the many things he has to do in order to explain something as tangentially related to the source material as proper delivery.
 
@@ -46,7 +46,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:1.930
 Commenting on Iliad 1.334-1.335:
 
 
-Scholarly Work:
+**Scholarly Work:**
 
 Item 4:
 _ἵστεον ὅτι ὁ ποιητὴς πανταχοῦ τὸ ὁμοίϊον ἐπι τοῦ φαύλου λαμβάνει οἷον ὡς ἐνταῦθα ἀλλά σε γήρας τειρει ὁμοιΐον . καὶ ἀλλ ἥτοι θάνατον μὲν ὁμοίϊον οὐδὲ θεοί περ ἢμι φίλω· ἀνδρὶ δύνανται ἀλαλκέμεν ὁπότ ἂν τελος ἔλθῃ ὁμοίϊον πτολέμοιο·_
@@ -69,7 +69,7 @@ Commenting on Iliad 11.88
 
 “One must put a rough breathing, since the α before the δ tends to have a rough breathing when it does not have a negative sense or does not have krasis. Krasis makes the breathing smooth in ἀδαής and ἀδρανής, but makes it rough in ἁδρός, ἀδινός, and Ἀδριας. For this reason it is better to put a rough breathing on  Ἅδωνις (since people put a smooth breathing on it) because they take the etymology from αἴδειν τῇ δαίμονι.”
 
-Editorial Work:
+**Editorial Work:**
 
 _ὅτι ὡς προς δύο τοῖς δυϊκοῖς σχήμασι χρῆται δι ὃ ἀθετητέον τὸν προκείμενον στίχον ἐν ᾧ τεσσαρά ἐστιν ὀνόματα_
 Commenting on Iliad 8.191
