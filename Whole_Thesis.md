@@ -1,0 +1,21 @@
+Introduction:
+
+Aristarchus of Samothrace was not supposed to have a notable legacy. According to what few sources on his life remain, Aristarchus most likely died in exile, some 400 miles from his beloved Library of Alexandria, where his ideas were housed and his influence began. Aristarchus' exile itself was unceremonious, and existed as a footnote in the greater elimination of dissenters enacted by Ptolemy VIII; however, this thesis operates under the [idea] that footnotes are not to be overlooked.
+
+Reasonably, Aristarchus' legacy should have ended there. Or, if it insisted on clinging to relevancy, then it should have ended when the last of his estimated 800 works disappeared from the Greek canon. By some miracle, this never came to pass. Instead, his legacy endured in the form of the Aristarchan literary-critical tradition, influencing scholars well into the Middle Ages. This literary-critical tradition includes the use of seimeia, or critical signs, first used by Aristarchus, as well as the methodology which would compel a scholar to use these signs. Both of these components will be elaborated upon within this thesis. This thesis does not claim to be an exhaustive account of whom was influenced by Aristarchus, and in what respects. It instead offers a close examination of the works of a few scholars whose works were influenced by Aristarchus, and by each other: namely, Dionysius Thrax, Aristonicus of Alexandria, and the unnamed scholiast of the Venetus A manuscript of the Iliad.
+
+The scholiast of the Venetus A stands out among the aforementioned scholars, as he was farther removed from Aristarchus by several centuries. While Dionysius Thrax lived at the same time as Aristarchus, and Aristonicus lived roughly a century later, the composition of the Venetus A manuscript in the tenth century C.E. places the Venetus A scholiast at a twelve century separation from Aristarchus. This information, coupled with the knowledge that Aristarchus' works had most likely ceased to exist by this point, raises the question of how closely the Venetus A scholiast could have possibly aligned his literary-critical interests with those who set the foundation of the literary-critical tradition. This paper aims to prove, through close readings and topic models of the scholia, that the legacy of Aristarchus was still alive and well by the tenth century, as ideas of what was relevant in literary criticism remained largely the same.
+
+The thesis itself consists of three chapters, each covering a different aspect that will lead to the overall understanding of the Aristarchan tradition. The first chapter explains the evolution of the Aristarchan tradition through the texts left behind by Dionysius Thrax, Aristonicus, and George Choiroboskos. The understanding of the tradition will then be compared to literary-critical interests of the Venetus A scholiast in the second and third chapters. While the second chapter focuses on close reading of the scholia, the third chapter takes a different approach, focusing on topic models of the scholia.
+
+At the end of this thesis, topic models are included to visually demonstrate the findings of the third chapter. [Write more about this.]
+
+As a glance at the bibliography will show, this thesis makes use of only a select few modern sources. I was fortunate enough to have access to primary sources on the Aristarchan tradition, allowing me to understand how notable scholars understood the tradition in their own words. Among these primary sources was the last remaining page of περὶ τῶν σημείων τῆς Ἰλιάδος καὶ Ὀδυσσείας by Aristonicus, which has been preserved in the Venetus A manuscript. As the Venetus A manuscript has been digitized, I had the rare opportunity to utilize this oft-overlooked source. This opportunity only grew as I was granted the chance to create a digital edition and translation of this page, alongside Professor Neel Smith from the College of the Holy Cross and Professor Graeme Bird from Gordon College. I have included our new translation of the text as an appendix to this thesis.
+
+Chapter 1: Close Reading
+
+
+Chapter 2: Topic Modeling
+
+
+Conclusion:
