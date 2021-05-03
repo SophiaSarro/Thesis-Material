@@ -2,49 +2,22 @@
 
 When studying the literary-critical interests of a scholiast, it only makes sense to do a close reading of the scholia he wrote. However, as the Venetus A manuscript houses 14,336 scholia, I could not hope to read and analyze and sort all of them as just one part of a one-year project. If I wanted to accomplish anything, I first had to select a group of scholia to focus on - the question was, which group of scholia would yield meaningful results?
 
-The idea to analyze scholia containing verbal adjectives stemmed from their conspicuous abundance. Verbal adjectives - words ending in _-τέον_ - appear very infrequently in the larger Greek corpus. The Venetus A scholiast, however, employed an impressive 78 verbal adjectives in his scholia. Only two of these verbal adjectives - _φυλακτεον_ and - are used in the context of what characters of the _Iliad_ must do in the story. The remaining 76 verbal adjectives are used to instruct readers on how they should interpret the text. This ratio of 2:76 demonstrates that when talking about a subject other than his literary-critical interests, the scholiast does not use verbal adjectives noticeably more frequently than any other writer; when talking about his literary-critical interests, however, he uses them far more frequently. As verbal adjectives have a special literary-critical significance to the Venetus A scholiast, there seemed to be no better group of scholia to examine than those containing verbal adjectives. 
+The idea to analyze scholia containing verbal adjectives stemmed from their conspicuous abundance. Verbal adjectives - words ending in _-τέον_ - appear very infrequently in the larger Greek corpus. The Venetus A scholiast, however, employed an impressive 78 verbal adjectives in his scholia. Only two of these verbal adjectives - _φυλακτεον_ and - are used in the context of what characters of the _Iliad_ must do in the story. The remaining 76 verbal adjectives are used to instruct readers on how they should interpret the text. This ratio of 2:76 demonstrates that when talking about a subject other than his literary-critical interests, the scholiast does not use verbal adjectives noticeably more frequently than any other writer; when talking about his literary-critical interests, however, he uses them far more frequently. Furthermore, these 78 different verbal adjectives are employed in over 800 of the Venetus A scholia. As verbal adjectives have a special literary-critical significance to the Venetus A scholiast, there seemed to be no better group of scholia to examine than those containing verbal adjectives. 
 
-Momentarily, it seemed that I had isolated the perfect group of scholia to focus on. Any contentment I had was quashed by the revelation that there are over 800 scholia containing verbal adjectives in the Venetus A. While I could have sifted through these scholia at random, hoping to stumble across something of meaning, I figured that there must have been a more organized and effective way. Overwhelmed by the sheer amount of material I was dealing with, and groping for any semblance of a direction, I began sorting the verbal adjectives into tables.
+Momentarily, it seemed that I had isolated the perfect group of scholia to focus on. Then, of course, it registered that 800 scholia is a large amount of scholia. While I could have sifted through these scholia at random, hoping to stumble across something of meaning, I figured that there must have been a more organized and effective way. Overwhelmed by the sheer amount of material I was dealing with, and groping for any semblance of a direction, I attempted to sort the verbal adjectives into the same "steps" as I had used to categorize Dionysius' components of literary criticism.
 
-While the table went through several iterations, I eventually settled on dividing it into three categories: those having to do with marking for proper pronunciation, those used to make a scholarly argument, and technical vocabulary only used in the context of literary criticism. Even this categorization, as neat as it was, seemed hopelessly arbitrary - until I realized that Dionysius Thrax's six components of literary criticism can be sorted into the same three categories. The distribution is as follows:
-
-Oral Reading:
-
-First, practiced oral reading with regard to prosody
-
-Scholarly Work:
-
-Second, explanation in accordance with the poetic figures
-Third, accounting for words and background information
-Fourth, discovery of etymologies
-Fifth, setting out paradigms
-
-Editorial Work:
-
-Sixth, krisis of the poems, which is the most beautiful aspect of the art
-
-Confirming that this categorization is not arbitrary, each of the three categories counts as a distinct phase in the creation of a critical edition. That is to say, Dionysius' first component, the only component in the Oral Reading category, has to take place before any of the others. Upon moving to the Scholarly Work category, a grammarian could perform any of the four components therein in any order. All four of them must be completed, however, until the scholar can move onto krisis, the only step in the Editorial Work category. 
+To my surprise, it worked.
 
 **Oral Reading:**
 
- Dionysius breaks down the process of _ἀνάγνωσις_ into three separate subcategories: delivery (_ὑπόκρισιν_), prosody (_προσῳδίαν_), and pauses (_διαστολήν_). The latter two categories can be, and frequently are, alluded to by the Venetus A scholiast as well. In his commentary on Dionysius, George Choroboskos claimed that prosody can be further broken down into three categories: tone, length, and breathing. All three of these appear as concerns of the Venetus A scholiast, as evidenced by Table B. In fact, the only facet of _ἀνάγνωσις_ that the scholiast overlooks is delivery (_ὑπόκρισιν_). This would definitely be the hardest to communicate in a written format. Dionysius, by divorcing his work from any given edition of the _Iliad_, gave himself the freedom to go as in-depth as he desires with basic concepts such as _ὑπόκρισιν_; however, just as the Venetus A scholiast would not pause to explain what a vowel is, like Dionysius does, he likewise cannot pause in the many things he has to do in order to explain something as tangentially related to the source material as proper delivery.
+The first category, as in the previous chapter, covers the topic of _ἀνάγνωσις_. In the scholiast's case, we must keep in mind that the words have to do both with the pronunciation itself, and with the orthographic conventions that would lead to a certain pronunciation. Consider the following scholion:
 
-_τον η συνδεσμον περισπαστεον τον δε πη οξυτονητεον δια το με εγκλιτικον ενθαδε γαρ το πη ου πυσμα αλλα αοριστον_
-urn:cts:greekLit:tlg5026.msA.hmt:3.585
-Commenting on Iliad 3.400:
+_υποστικτεον εις το εθελεις , ινα το δαημεναι αντι προστακτικου το δαηθι_ (Commenting on _Iliad_ 6.150)
 
-_το εα ϊωνικον εστιν εκ του η γεγονος . διο συσταλτεον το αλφα , ομοιως τῳ τοιος εα εν πολεμῳ ο και δια του ην λεγεται τοις ηα φιλοπτολεμος . το δε μετρον ου κωλυεται· απηρτησε γαρ εις μερος λογου και επεχει τοπον μακρας ομοιως τῳ αμφηρεφεα τε φαρετρην_
-urn:cts:greekLit:tlg5026.msA.hmt:5.5018
-Commenting on Iliad 5.887: 
+The scholion tells the scribe that one must write a comma after the word _εθελεις_. Clearly, this is an action which must take place before the oral reading takes place. It still appears in the Oral Reading category, however, as a scribe must include the comma to ensure that his readers recite the line correctly, pausing in the appropriate place.
 
-_ψιλωτεον παν φωνηεν προ του χ ψιλουται , περι δε του ῃχι δασυνομενου ειπομεν_
-urn:cts:greekLit:tlg5026.msA.hmt:12.H23
-Commenting on Iliad 12.260:
-
-_στικτεον κατα το τελος του στιχου και βραχυ διασταλτεον επι τω επαιτιοι · ως γαρ αγγελους σεμνυνων αυτους ειπεν_
-urn:cts:greekLit:tlg5026.msA.hmt:1.930
-Commenting on Iliad 1.334-1.335:
-
+ Two of Dionysius' subcategories of _ἀνάγνωσις_, prosody and pauses, also make an appearance in the Venetus A scholia via the verbal adjectives. The example above, commenting on _Iliad_ 6.150, confirms that the placement of pauses is a literary critical interest that the scholiast shares with Dionysius Thrax. 
+In terms of prosody, the scholiast covers tone, length, and breathing, just as George Choiroboskos claimed that Dionysius did. 
 
 **Scholarly Work:**
 
