@@ -22,7 +22,9 @@ In terms of prosody, the scholiast covers tone, length, and breathing, just as G
 _την ος οξυτονητεον δια την οι αντωνυμιαν . ητις νυν εγκλητικη εστιν_ (Commenting on _Iliad_ 6.90)
 
 The scholion instructs that one must pronounce the pronoun oxytone, falling squarely into the tone category of George Choiroboskos' subdivision of prosody. This scholion is also interesting to consider as it operates in the obverse manner of the one discussed above. In the scholion commenting on 6.150, how one must mark the text is explicit, and how one must pronounce it is implicit; on the scholion commenting on 6.90, the pronunciation is made explicit, and the orthography is implicit.
+
 **Scholarly Work:**
+
 
 Item 4:
 _ἵστεον ὅτι ὁ ποιητὴς πανταχοῦ τὸ ὁμοίϊον ἐπι τοῦ φαύλου λαμβάνει οἷον ὡς ἐνταῦθα ἀλλά σε γήρας τειρει ὁμοιΐον . καὶ ἀλλ ἥτοι θάνατον μὲν ὁμοίϊον οὐδὲ θεοί περ ἢμι φίλω· ἀνδρὶ δύνανται ἀλαλκέμεν ὁπότ ἂν τελος ἔλθῃ ὁμοίϊον πτολέμοιο·_
@@ -39,7 +41,8 @@ The sign is there because Zenodotus athetized this line and the following three.
 It must be understood that Achilles kills him as Quintus the poet says in Τα Μετα Ὅμηρον...”
 (Commenting on Iliad 2.220)
 
-Item 6:
+The following scholion covers two of Dionysius' categories:
+
 _Δασυντέον, τὸ γὰρ α προ τοῦ δ ὃν καὶ μὴ έχον στερητικὴν ἔννοιαν ῆ κρᾶσιν τινὰ δασύνεσθαι θέλει , στερητικὴν μὲν οὕτως . κατα κράσιν ἀδαής , ἀδρανής ἀδευκής , μὴ ουτ δὲ ἔχον ἁδρός ἀδινός Ἀδριας δι ὃ καὶ τὸ Ἅδωνις κρεῖττον ἐστι δασύνειν ἵνα καὶ παρα τῷ αἴδειν τῇ δαίμονι ἐτυμολογηθ_
 Commenting on Iliad 11.88
 
