@@ -17,8 +17,11 @@ _υποστικτεον εις το εθελεις , ινα το δαημενα�
 The scholion tells the scribe that one must write a comma after the word _εθελεις_. Clearly, this is an action which must take place before the oral reading takes place. It still appears in the Oral Reading category, however, as a scribe must include the comma to ensure that his readers recite the line correctly, pausing in the appropriate place.
 
  Two of Dionysius' subcategories of _ἀνάγνωσις_, prosody and pauses, also make an appearance in the Venetus A scholia via the verbal adjectives. The example above, commenting on _Iliad_ 6.150, confirms that the placement of pauses is a literary critical interest that the scholiast shares with Dionysius Thrax. 
-In terms of prosody, the scholiast covers tone, length, and breathing, just as George Choiroboskos claimed that Dionysius did. 
+In terms of prosody, the scholiast covers tone, length, and breathing, just as George Choiroboskos claimed that Dionysius did. Consider the following scholion:
 
+_την ος οξυτονητεον δια την οι αντωνυμιαν . ητις νυν εγκλητικη εστιν_ (Commenting on _Iliad_ 6.90)
+
+The scholion instructs that one must pronounce the pronoun oxytone, falling squarely into the tone category of George Choiroboskos' subdivision of prosody. This scholion is also interesting to consider as it operates in the obverse manner of the one discussed above. In the scholion commenting on 6.150, how one must mark the text is explicit, and how one must pronounce it is implicit; on the scholion commenting on 6.90, the pronunciation is made explicit, and the orthography is implicit.
 **Scholarly Work:**
 
 Item 4:
