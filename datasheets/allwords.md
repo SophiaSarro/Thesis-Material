@@ -1,13 +1,13 @@
-# Datasheet for {DATASET}
+| Datasheet for {DATASET}
 
-## (1) Motivation
+|| (1) Motivation
 
 - purpose
 - creators
 - support
 
 
-## (2) Composition
+|| (2) Composition
 
 - what does an instance represent?
 - how many instances are there in total?
@@ -20,7 +20,7 @@
 - confidential or sensitive data?
 
 
-## (3) Collection
+|| (3) Collection
 
 - how was data for each instance collected?
 - what means were used to collect data?
@@ -29,14 +29,14 @@
 - date range of data collection?
 
 
-## (4) Prepocessing, cleaning, labeling
+|| (4) Prepocessing, cleaning, labeling
 
 - was any prepocessing, cleaning, or labeling applied?
 - was the raw/archival source saved?
 - identify software used in cleaning, and how it can be acquired
 
 
-## (5) Uses
+|| (5) Uses
 
 - has the dataset already been used?
 - repo linking to papers or systems using the data?
@@ -44,7 +44,7 @@
 - any tasks the data should NOT be used for?
 
 
-## (6) Distribution
+|| (6) Distribution
 
 
 - how is the dataset dsitributed? (E.g, github repo)
@@ -52,9 +52,9 @@
 - legal license?
 
 
-## (7) Maintenane
+|| (7) Maintenance
 
-- who is hosting/maintaining the dat set?
+- who is hosting/maintaining the data set?
 - contact for the curator/manager?s
 - issue tracker for submitting errors
 - will it be updated? how often, by whom, and how are updates communicated?
