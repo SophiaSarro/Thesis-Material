@@ -1,4 +1,4 @@
-# Verbal adjectives in the _scholia*
+# Verbal adjectives in the _scholia_
 
 ## Introduction to the Verbal Adjective
 
