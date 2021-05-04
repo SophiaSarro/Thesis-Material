@@ -1,3 +1,5 @@
+# Dionysius Thrax
+
 As mentioned in the previous chapter, the _Τέχνη Γραμματική_ of Dionysius Thrax was instrunmental in preserving the legacy of Aristarchus. Much of this is due to the first section of the text, fittingly titled _Γραμματική_. Whereas the remainder of the text explains a variety of grammatical fundamentals, ranging from vowels and consonants to parts of speech, _Γραμματική_ outlines the six components of making a critical edition, which had only been undertaken by Zenodotus and Aristarchus so far. According to Dionysius, the six components of literary-criticism are as follows:
 
 "First, practiced oral reading with regard to prosody
@@ -14,7 +16,7 @@ Sixth, _krisis_ of the poems, which is the most beautiful aspect of the art"
 
 While the order of the list is not arbitrary, the hopeful author of a critical edition did not necessarily have to be perform these tasks in precisely the order given. Instead, the list can be broken down into three steps - Practiced Oral Reading, Scholarly Work, and Krisis - wherein components within the same step can be performed in any order.
 
-**Step One: Practiced Oral Reading**
+## Step One: Practiced Oral Reading
 
 The first step of creating a critical edition only includes the first of Dionysius' six components. Before any work can be done in terms of understanding the poem, a scholar must first internalize every line, down to the breathings and pauses, and be able to recite them. The idea behind this is that anything "truly Homeric" would be perfect. If the words did not flow, or if the meter did not fit, a line could be assumed to be uh-Homeric. However, that judgement could not be made until the line was recited confidently and committed to memory. After all, if a scholar was not positive that his reading of the line was correct, then the fault for a line that did not flow properly may have been his, as opposed to the author's.
 

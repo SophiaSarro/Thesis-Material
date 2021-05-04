@@ -1,4 +1,6 @@
-**Introduction to the Verbal Adjective:**
+# Verbal adjectives in the _scholia*
+
+## Introduction to the Verbal Adjective
 
 When studying the literary-critical interests of a scholiast, it only makes sense to do a close reading of the scholia he wrote. However, as the Venetus A manuscript houses 14,336 scholia, I could not hope to read and analyze and sort all of them as just one part of a one-year project. If I wanted to accomplish anything, I first had to select a group of scholia to focus on - the question was, which group of scholia would yield meaningful results?
 
@@ -8,7 +10,7 @@ Momentarily, it seemed that I had isolated the perfect group of scholia to focus
 
 To my surprise, it worked.
 
-**Practiced Oral Reading:**
+## Practiced Oral Reading
 
 The first category, as in the previous chapter, covers the topic of _ἀνάγνωσις_. In the scholiast's case, we must keep in mind that the words have to do both with the pronunciation itself, and with the orthographic conventions that would lead to a certain pronunciation. Consider the following scholion:
 
@@ -23,7 +25,7 @@ _την ος οξυτονητεον δια την οι αντωνυμιαν . η
 
 The scholion instructs that one must pronounce the pronoun oxytone, falling squarely into the tone category of George Choiroboskos' subdivision of prosody. This scholion is also interesting to consider as it operates in the obverse manner of the one discussed above. In the scholion commenting on 6.150, how one must mark the text is explicit, and how one must pronounce it is implicit; on the scholion commenting on 6.90, the pronunciation is made explicit, and the orthography is implicit.
 
-**Scholarly Work:**
+## Scholarly Work
 
 Like Dionysius advises, the scholiast gives explanations in accordance with the poetic figures, accounts for words and background information, records his discoveries of etymologies, and sets out paradigms. As scholarly work is the intermediary step, used to inform both the practiced oral reading and the krisis, recording his work in these regards helped to justify his critical choices to readers, in addition to contributing to the construction of the critical edition itself.
 
@@ -46,7 +48,7 @@ _Δασυντέον, τὸ γὰρ α προ τοῦ δ ὃν καὶ μὴ έ
 The paradigm here is contained in the first line. The scholiast explains that in words where α comes before the δ, but does not have a negative sense or krasis, the breathing on the α tends to be rough. He then provides ἁδρός, ἀδινός, and Ἀδριας as examples of words that fit into the paradigm, and ἀδαής and ἀδρανής as examples of words that do not. The scholiast then mentions that according to the paradigm he just set up, the name Ἅδωνις should have a rough breathing, as he traces the etymology of the name to the phrase "_αἴδειν τῇ δαίμονι_". This is one of the scholia which works backwards to work forwards, confirming the practiced oral reading in order to eventually confirm that a line should be judged Homeric. In order to justify his pronunciation and marking of the text, the scholiast had to first establish a paradigm and demonstrate why a word should be pronounced the way he indicated. Those words which may not obviously fit into a paradigm, or with a significant or obscure root, may require an etymology to justify their use.  
 
 
-**Krisis:**
+## Krisis
 
 Lastly, once the scholarly work is complete, the scholiast arrives at the most beautiful facet of the grammatical art. The verbal adjectives in the krisis category refer to words which explicitly state that a judgement must be made on a line's authenticity. For example, consider this scholion:
 

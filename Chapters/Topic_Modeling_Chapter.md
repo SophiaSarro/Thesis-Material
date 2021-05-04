@@ -1,4 +1,6 @@
-**Introduction to Topic Modeling:**
+# Topic modeling
+
+## Introduction to Topic Modeling
 
 While close reading of scholia is an integral facet of my research, as evidenced by the Verbal Adjective chapter, it does not need to be the only component. In prior decades, this would not be the case: research of scholia was limited to transcriptions and close readings, fit within the short span of time that a scholar could occupy space in a manuscript library. However, due to the recent digitization of the Venetus A manuscript, I can take advantage of a process called topic modeling and analyse scholia in a way other than close reading.
  
@@ -6,7 +8,7 @@ Topic modeling is a form of natural language processing which forms a statistica
 
 Another advantage of topic modeling is that it yields empirical results. Anyone who wants to replicate or build off of the findings in this paper can use the lists of words included with this thesis, as well as the stop words list, in order to get their own results. The stop words list is a collection of words which the computer is ordered to ignore when making its statistical models. For instance, articles and particles will appear evenly throughout the text regardless of context; for this reason, they are not important to include in the topic models, and thus are placed on the stop words list and filtered out. The different lists of words, meanwhile, display the different stages of topic modeling explored in this thesis. 
 
-**Creating a Topic Model**
+## Creating a Topic Model
 
 Generating a topic model requires two documents: the first is the corpus that is being modeled, and the second is the "stop words" list. The first document is self-explanatory. Using the digital edition of the Venetus A manuscript created by the Homer Multitext project, a list of every scholion was assembled. Accents and breathing marks were omitted from this list, as the scribe was not always consistent in marking the same words the same way. Therefore, keeping the accents and breathing marks would have caused unneeded repetition in our topic models.
 
@@ -14,7 +16,7 @@ The stop words list, meanwhile, is a list which tells the topic modeling softwar
 
 Topic Model A, which is included in the appendix section of this thesis, was constructed using every scholion in the Venetus A. When I set out to topic model the scholia, I knew that this had to be done. After all, there are few ways to comprehensively analyse every scholion. However, by swapping out the list of scholia and stop words list, I could adjust my scope and find patterns in more specific groups of scholia.
 
-**Topic Modeling With Critical Signs:**
+## Topic Modeling With Critical Signs
 
 Given the opportunity to broaden and narrow my scope as I pleased, I decided to analyze the intersection between two indicators of literary-critical interests: the verbal adjectives discussed in the previous chapter, and the critical signs invented by Aristarchus and Zenodotus. In order to create these topic models, I created separate lists of scholia with corresponding lines marked marked with diples, dotted diples, asteriskoi, or obeloi, which also contained verbal adjectives. (There are no scholia which contain a verbal adjective and are marked with an antisigma, a dotted antisigma, or a reverse dotted antisigma.) This way, I could see whether specific critical signs was more likely to correspond with any of the aforementioned categories of verbal adjectives.
 
