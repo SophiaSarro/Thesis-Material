@@ -39,24 +39,24 @@ _ἔχθιστος δ’ Ἀχιλῆϊ . ὅτι Ζηνοδοτος τοῦτο
 
 This scholarly argument corresponds with Dionysius' third component, accounting for background information. In the passage in question, Achilles hurls insults at a soldier named Thersides. The judgement that must be made is whether it is in character for Achilles, as one of the heroes, to verbally abuse one of his inferiors in this way. To answer this question, the scholiast confirms that according to the poet Quintus, this is not the worst thing Achilles has inflicted upon this particular soldier. In fact, in Quintus' poem Τα Μετα Ὅμερον, Thersides mocks Achilles for falling in love with Penthesileia, the Queen of the Amazons, only after murdering her. Achilles, enraged, kills Thersides with a single punch, knocking all of his teeth out in the process. The scholiast includes this backstory in order to confirm that it is not out of character for Achilles to act aggressively towards Thersides, and ultimately to justify why he did not obelize thisf line.
 
-The following scholion covers two of Dionysius' categories:
+The following scholion covers the final two of Dionysius' categories contained in scholarly work, the discovery of etymologies and setting out of paradigms:
 
-_Δασυντέον, τὸ γὰρ α προ τοῦ δ ὃν καὶ μὴ έχον στερητικὴν ἔννοιαν ῆ κρᾶσιν τινὰ δασύνεσθαι θέλει , στερητικὴν μὲν οὕτως . κατα κράσιν ἀδαής , ἀδρανής ἀδευκής , μὴ ουτ δὲ ἔχον ἁδρός ἀδινός Ἀδριας δι ὃ καὶ τὸ Ἅδωνις κρεῖττον ἐστι δασύνειν ἵνα καὶ παρα τῷ αἴδειν τῇ δαίμονι ἐτυμολογηθ_
-Commenting on Iliad 11.88
+_Δασυντέον, τὸ γὰρ α προ τοῦ δ ὃν καὶ μὴ έχον στερητικὴν ἔννοιαν ῆ κρᾶσιν τινὰ δασύνεσθαι θέλει , στερητικὴν μὲν οὕτως . κατα κράσιν ἀδαής , ἀδρανής ἀδευκής , μὴ ουτ δὲ ἔχον ἁδρός ἀδινός Ἀδριας δι ὃ καὶ τὸ Ἅδωνις κρεῖττον ἐστι δασύνειν ἵνα καὶ παρα τῷ αἴδειν τῇ δαίμονι ἐτυμολογηθ_ (Commenting on Iliad 11.88)
 
-“One must put a rough breathing, since the α before the δ tends to have a rough breathing when it does not have a negative sense or does not have krasis. Krasis makes the breathing smooth in ἀδαής and ἀδρανής, but makes it rough in ἁδρός, ἀδινός, and Ἀδριας. For this reason it is better to put a rough breathing on  Ἅδωνις (since people put a smooth breathing on it) because they take the etymology from αἴδειν τῇ δαίμονι.”
+The paradigm here is contained in the first line. The scholiast explains that in words where α comes before the δ, but does not have a negative sense or krasis, the breathing on the α tends to be rough. He then provides ἁδρός, ἀδινός, and Ἀδριας as examples of words that fit into the paradigm, and ἀδαής and ἀδρανής as examples of words that do not. The scholiast then mentions that according to the paradigm he just set up, the name Ἅδωνις should have a rough breathing, as he traces the etymology of the name to the phrase "_αἴδειν τῇ δαίμονι_". This is one of the scholia which works backwards to work forwards, confirming the practiced oral reading in order to eventually confirm that a line should be judged Homeric. In order to justify his pronunciation and marking of the text, the scholiast had to first establish a paradigm and demonstrate why a word should be pronounced the way he indicated. Those words which may not obviously fit into a paradigm, or with a significant or obscure root, may require an etymology to justify their use.  
 
-**Editorial Work:**
 
-_ὅτι ὡς προς δύο τοῖς δυϊκοῖς σχήμασι χρῆται δι ὃ ἀθετητέον τὸν προκείμενον στίχον ἐν ᾧ τεσσαρά ἐστιν ὀνόματα_
-Commenting on Iliad 8.191
+**Krisis:**
 
-“[The critical sign is here] because he uses the dual form in reference to two items. For this reason, one must athetize the previous line in which there are four names.” 
-(Commenting on Iliad 8.191)
+Lastly, once the scholarly work is complete, the scholiast arrives at the most beautiful facet of the grammatical art. The verbal adjectives in the krisis category refer to words which explicitly state that a judgement must be made on a line's authenticity. For example, consider this scholion:
+
+_ὅτι ὡς προς δύο τοῖς δυϊκοῖς σχήμασι χρῆται δι ὃ ἀθετητέον τὸν προκείμενον στίχον ἐν ᾧ τεσσαρά ἐστιν ὀνόματα_ (Commenting on Iliad 8.191)
+
+In the passage which it comments on, the poet lists four characters, and then refers to them with the dual form. This is obviously grammatically impossible, leading the scholiast to assert that one must athetize the line in which the four names are listed.
 
 Table A
 
-| Oral Reading          | Scholarly Work     | Editorial Work      |
+| Oral Reading          | Scholarly Work     | Krisis              |
 |-----------------------|--------------------|---------------------|
 | ἐκτατέον              | θετέον             | συντακτέον          |
 | οξυτονητέον           | νομιστέον          | συναπτέον           |
