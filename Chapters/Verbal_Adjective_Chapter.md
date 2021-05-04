@@ -8,7 +8,7 @@ Momentarily, it seemed that I had isolated the perfect group of scholia to focus
 
 To my surprise, it worked.
 
-**Oral Reading:**
+**Practiced Oral Reading:**
 
 The first category, as in the previous chapter, covers the topic of _ἀνάγνωσις_. In the scholiast's case, we must keep in mind that the words have to do both with the pronunciation itself, and with the orthographic conventions that would lead to a certain pronunciation. Consider the following scholion:
 
@@ -25,21 +25,19 @@ The scholion instructs that one must pronounce the pronoun oxytone, falling squa
 
 **Scholarly Work:**
 
+Like Dionysius advises, the scholiast gives explanations in accordance with the poetic figures, accounts for words and background information, records his discoveries of etymologies, and sets out paradigms. As scholarly work is the intermediary step, used to inform both the practiced oral reading and the krisis, recording his work in these regards helped to justify his critical choices to readers, in addition to contributing to the construction of the critical edition itself.
 
-Item 4:
-_ἵστεον ὅτι ὁ ποιητὴς πανταχοῦ τὸ ὁμοίϊον ἐπι τοῦ φαύλου λαμβάνει οἷον ὡς ἐνταῦθα ἀλλά σε γήρας τειρει ὁμοιΐον . καὶ ἀλλ ἥτοι θάνατον μὲν ὁμοίϊον οὐδὲ θεοί περ ἢμι φίλω· ἀνδρὶ δύνανται ἀλαλκέμεν ὁπότ ἂν τελος ἔλθῃ ὁμοίϊον πτολέμοιο·_
-Commenting on Iliad 4.315
+The following scholion speaks to Dionysius' second component, explaining a poetic figure:
 
-One must understand that the poet always uses the word ομοιϊον in a negative sense. (Examples quoted)”
-(Commenting on Iliad 4.315)
+_ἵστεον ὅτι ὁ ποιητὴς πανταχοῦ τὸ ὁμοίϊον ἐπι τοῦ φαύλου λαμβάνει οἷον ὡς ἐνταῦθα ἀλλά σε γήρας τειρει ὁμοιΐον . καὶ ἀλλ ἥτοι θάνατον μὲν ὁμοίϊον οὐδὲ θεοί περ ἢμι φίλω· ἀνδρὶ δύνανται ἀλαλκέμεν ὁπότ ἂν τελος ἔλθῃ ὁμοίϊον πτολέμοιο·_ (Commenting on Iliad 4.315)
 
-Item 5:
-_ἔχθιστος δ’ Ἀχιλῆϊ . ὅτι Ζηνοδοτος τοῦτον καὶ τοὺς μετ αυτὸν τρεῖς ἡθέτηκεν προς ὑπόθεσιν δέ τινα λέγονται επίτηδες γὰρ τούτων τῶν αγαθῶν ἐπεσβόλον παραγείοχεν : ἱστέον δὲ ὅτι Ἀχιλλεὺς αὐτον ἀναιρεῖ ὡς ἱστορεῖ Κόϊντος ὁ ποιητὴς ἐν τοῖς μεθ Ὅμηρον φησὶ γὰρ ὅτι ἐν τῇ Ἀμαζονομαχια ἀνελὼν ὁ Ἀχιλλεὺς Πενθεσίλειαν τὴν τῶν Ἀμαζόνων βασίλισσαν ὕστερον προσχὼν τὸ σῶμα αὐτης εὐπρεπὲς πάνυ εἰς ἔρωτα ἤλθεν τῆς προειρημενης βαρέως τὲ ἔφερεν ἐπι τῷ θανάτῳ αὐτῆς : ὁρῶν δὲ δυσφοροῦντα αὐτὸν Θερσίτης συνήθως ἐλοιδόρει . ἐφ ῷ ὀργισθεις ὁ ἤρως γρονθω παίσας αὐτὸν ἀναιρεῖ παραυτὰ τῶν οδοντῶν αὐτοῦ ἐνεχθεντων χαμαί_
-Commenting on Iliad 2.220
+Here, the figure in question is the word _ομοιϊον_. The scholiast argues that in true Homeric language, _ομοιϊον_ can only be used negatively. He then provides examples, proving that this is a reccurring feature of the language. This is not yet a judgement of whether a line is Homeric, but it is clear how it could become one. It logically follows that any line using _ομοιϊον_ positively should be judged unworthy of being in the text, whereas any line using _ομοιϊον_ negatively should not be counted out quite yet.
 
-The sign is there because Zenodotus athetized this line and the following three...
-It must be understood that Achilles kills him as Quintus the poet says in Τα Μετα Ὅμηρον...”
-(Commenting on Iliad 2.220)
+The scholion featured below includes both judgement and a scholarly argument, with the verbal adjective being used to express the latter:
+
+_ἔχθιστος δ’ Ἀχιλῆϊ . ὅτι Ζηνοδοτος τοῦτον καὶ τοὺς μετ αυτὸν τρεῖς ἡθέτηκεν προς ὑπόθεσιν δέ τινα λέγονται επίτηδες γὰρ τούτων τῶν αγαθῶν ἐπεσβόλον παραγείοχεν : ἱστέον δὲ ὅτι Ἀχιλλεὺς αὐτον ἀναιρεῖ ὡς ἱστορεῖ Κόϊντος ὁ ποιητὴς ἐν τοῖς μεθ Ὅμηρον φησὶ γὰρ ὅτι ἐν τῇ Ἀμαζονομαχια ἀνελὼν ὁ Ἀχιλλεὺς Πενθεσίλειαν τὴν τῶν Ἀμαζόνων βασίλισσαν ὕστερον προσχὼν τὸ σῶμα αὐτης εὐπρεπὲς πάνυ εἰς ἔρωτα ἤλθεν τῆς προειρημενης βαρέως τὲ ἔφερεν ἐπι τῷ θανάτῳ αὐτῆς : ὁρῶν δὲ δυσφοροῦντα αὐτὸν Θερσίτης συνήθως ἐλοιδόρει . ἐφ ῷ ὀργισθεις ὁ ἤρως γρονθω παίσας αὐτὸν ἀναιρεῖ παραυτὰ τῶν οδοντῶν αὐτοῦ ἐνεχθεντων χαμαί_ (Commenting on Iliad 2.220)
+
+This scholarly argument corresponds with Dionysius' third component, accounting for background information. In the passage in question, Achilles hurls insults at a soldier named Thersides. The judgement that must be made is whether it is in character for Achilles, as one of the heroes, to verbally abuse one of his inferiors in this way. To answer this question, the scholiast confirms that according to the poet Quintus, this is not the worst thing Achilles has inflicted upon this particular soldier. In fact, in Quintus' poem Τα Μετα Ὅμερον, Thersides mocks Achilles for falling in love with Penthesileia, the Queen of the Amazons, only after murdering her. Achilles, enraged, kills Thersides with a single punch, knocking all of his teeth out in the process. The scholiast includes this backstory in order to confirm that it is not out of character for Achilles to act aggressively towards Thersides, and ultimately to justify why he did not obelize thisf line.
 
 The following scholion covers two of Dionysius' categories:
 
