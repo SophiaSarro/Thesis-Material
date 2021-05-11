@@ -2,17 +2,17 @@
 
 As mentioned in the previous chapter, the _Τέχνη Γραμματική_ of Dionysius Thrax was instrunmental in preserving the legacy of Aristarchus. Much of this is due to the first section of the text, fittingly titled _Γραμματική_. Whereas the remainder of the text explains a variety of grammatical fundamentals, ranging from vowels and consonants to parts of speech, _Γραμματική_ outlines the six components of making a critical edition, which had only been undertaken by Zenodotus and Aristarchus so far. According to Dionysius, the six components of literary-criticism are as follows:
 
-_πρῶτον ἀνάγνωσις ἐντριβὴς κατὰ προσῳδίαν
+_πρῶτον ἀνάγνωσις ἐντριβὴς κατὰ προσῳδίαν_
 
-_δεύτερον ἐξήγησις κατὰ τοὺς ἐνυπάρχοντας ποιητικοὺς τρόπους
+_δεύτερον ἐξήγησις κατὰ τοὺς ἐνυπάρχοντας ποιητικοὺς τρόπους_
 
-_τρίτον γλωσσῶν τε καὶ ἱστοριῶν πρόχειρος ἀπόδοσις
+_τρίτον γλωσσῶν τε καὶ ἱστοριῶν πρόχειρος ἀπόδοσις_
 
-_τέταρτον ἐτυμολογίας εὕρεσις
+_τέταρτον ἐτυμολογίας εὕρεσις_
 
-_πέμπτον ἀναλογίας ἐκλογισμός
+_πέμπτον ἀναλογίας ἐκλογισμός_
 
-_ἕκτον κρίσις ποιημάτων, ὃ δὴ κάλλιστόν ἐστι πάντων τῶν ἐν τῇ τέχνῃ
+_ἕκτον κρίσις ποιημάτων, ὃ δὴ κάλλιστόν ἐστι πάντων τῶν ἐν τῇ τέχνῃ_
 
 (First, practiced oral reading with regard to prosody
 
