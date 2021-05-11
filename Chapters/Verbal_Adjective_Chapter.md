@@ -14,7 +14,9 @@ To my surprise, it worked.
 
 The first category, as in the previous chapter, covers the topic of _ἀνάγνωσις_. In the scholiast's case, we must keep in mind that the words have to do both with the pronunciation itself, and with the orthographic conventions that would lead to a certain pronunciation. Consider the following scholion:
 
-_υποστικτεον εις το εθελεις , ινα το δαημεναι αντι προστακτικου το δαηθι_ (Commenting on _Iliad_ 6.150)
+_υποστικτεον εις το εθελεις..._ (Commenting on _Iliad_ 6.150)
+
+"One must write a comma after εθελεις..."
 
 The scholion tells the scribe that one must write a comma after the word _εθελεις_. Clearly, this is an action which must take place before the oral reading takes place. It still appears in the Oral Reading category, however, as a scribe must include the comma to ensure that his readers recite the line correctly, pausing in the appropriate place.
 
@@ -22,6 +24,8 @@ The scholion tells the scribe that one must write a comma after the word _εθε
 In terms of prosody, the scholiast covers tone, length, and breathing, just as George Choiroboskos claimed that Dionysius did. Consider the following scholion:
 
 _την ος οξυτονητεον δια την οι αντωνυμιαν . ητις νυν εγκλητικη εστιν_ (Commenting on _Iliad_ 6.90)
+
+"One must mark the pronoun as oxytone. It is now enclitic."
 
 The scholion instructs that one must pronounce the pronoun oxytone, falling squarely into the tone category of George Choiroboskos' subdivision of prosody. This scholion is also interesting to consider as it operates in the obverse manner of the one discussed above. In the scholion commenting on 6.150, how one must mark the text is explicit, and how one must pronounce it is implicit; on the scholion commenting on 6.90, the pronunciation is made explicit, and the orthography is implicit.
 
@@ -31,19 +35,25 @@ Like Dionysius advises, the scholiast gives explanations in accordance with the 
 
 The following scholion speaks to Dionysius' second component, explaining a poetic figure:
 
-_ἵστεον ὅτι ὁ ποιητὴς πανταχοῦ τὸ ὁμοίϊον ἐπι τοῦ φαύλου λαμβάνει οἷον ὡς ἐνταῦθα ἀλλά σε γήρας τειρει ὁμοιΐον . καὶ ἀλλ ἥτοι θάνατον μὲν ὁμοίϊον οὐδὲ θεοί περ ἢμι φίλω· ἀνδρὶ δύνανται ἀλαλκέμεν ὁπότ ἂν τελος ἔλθῃ ὁμοίϊον πτολέμοιο·_ (Commenting on Iliad 4.315)
+_ἵστεον ὅτι ὁ ποιητὴς πανταχοῦ τὸ ὁμοίϊον ἐπι τοῦ φαύλου λαμβάνει..."_ (Commenting on Iliad 4.315)
+
+("One must understand that the poet always uses the word ομοιϊον in a negative sense...")
 
 Here, the figure in question is the word _ομοιϊον_. The scholiast argues that in true Homeric language, _ομοιϊον_ can only be used negatively. He then provides examples, proving that this is a reccurring feature of the language. This is not yet a judgement of whether a line is Homeric, but it is clear how it could become one. It logically follows that any line using _ομοιϊον_ positively should be judged unworthy of being in the text, whereas any line using _ομοιϊον_ negatively should not be counted out quite yet.
 
 The scholion featured below includes both judgement and a scholarly argument, with the verbal adjective being used to express the latter:
 
-_ἔχθιστος δ’ Ἀχιλῆϊ . ὅτι Ζηνοδοτος τοῦτον καὶ τοὺς μετ αυτὸν τρεῖς ἡθέτηκεν προς ὑπόθεσιν δέ τινα λέγονται επίτηδες γὰρ τούτων τῶν αγαθῶν ἐπεσβόλον παραγείοχεν : ἱστέον δὲ ὅτι Ἀχιλλεὺς αὐτον ἀναιρεῖ ὡς ἱστορεῖ Κόϊντος ὁ ποιητὴς ἐν τοῖς μεθ Ὅμηρον φησὶ γὰρ ὅτι ἐν τῇ Ἀμαζονομαχια ἀνελὼν ὁ Ἀχιλλεὺς Πενθεσίλειαν τὴν τῶν Ἀμαζόνων βασίλισσαν ὕστερον προσχὼν τὸ σῶμα αὐτης εὐπρεπὲς πάνυ εἰς ἔρωτα ἤλθεν τῆς προειρημενης βαρέως τὲ ἔφερεν ἐπι τῷ θανάτῳ αὐτῆς : ὁρῶν δὲ δυσφοροῦντα αὐτὸν Θερσίτης συνήθως ἐλοιδόρει . ἐφ ῷ ὀργισθεις ὁ ἤρως γρονθω παίσας αὐτὸν ἀναιρεῖ παραυτὰ τῶν οδοντῶν αὐτοῦ ἐνεχθεντων χαμαί_ (Commenting on Iliad 2.220)
+_ἔχθιστος δ’ Ἀχιλῆϊ . ὅτι Ζηνοδοτος τοῦτον καὶ τοὺς μετ αυτὸν τρεῖς ἡθέτηκεν... ἱστέον δὲ ὅτι Ἀχιλλεὺς αὐτον ἀναιρεῖ ὡς ἱστορεῖ Κόϊντος ὁ ποιητὴς ἐν τοῖς μεθ Ὅμηρον φησὶ γὰρ ὅτι..._ (Commenting on Iliad 2.220)
+
+("The sign is there because Zenodotus athetized this line and the following three... It must be understood that Achilles kills him as Quintus the poet says in Τα Μετα Ὅμηρον...”)
 
 This scholarly argument corresponds with Dionysius' third component, accounting for background information. In the passage in question, Achilles hurls insults at a soldier named Thersides. The judgement that must be made is whether it is in character for Achilles, as one of the heroes, to verbally abuse one of his inferiors in this way. To answer this question, the scholiast confirms that according to the poet Quintus, this is not the worst thing Achilles has inflicted upon this particular soldier. In fact, in Quintus' poem Τα Μετα Ὅμερον, Thersides mocks Achilles for falling in love with Penthesileia, the Queen of the Amazons, only after murdering her. Achilles, enraged, kills Thersides with a single punch, knocking all of his teeth out in the process. The scholiast includes this backstory in order to confirm that it is not out of character for Achilles to act aggressively towards Thersides, and ultimately to justify why he did not obelize thisf line.
 
 The following scholion covers the final two of Dionysius' categories contained in scholarly work, the discovery of etymologies and setting out of paradigms:
 
 _Δασυντέον, τὸ γὰρ α προ τοῦ δ ὃν καὶ μὴ έχον στερητικὴν ἔννοιαν ῆ κρᾶσιν τινὰ δασύνεσθαι θέλει , στερητικὴν μὲν οὕτως . κατα κράσιν ἀδαής , ἀδρανής ἀδευκής , μὴ ουτ δὲ ἔχον ἁδρός ἀδινός Ἀδριας δι ὃ καὶ τὸ Ἅδωνις κρεῖττον ἐστι δασύνειν ἵνα καὶ παρα τῷ αἴδειν τῇ δαίμονι ἐτυμολογηθ_ (Commenting on Iliad 11.88)
+
+("One must put a rough breathing, since the α before the δ tends to have a rough breathing when it does not have a negative sense or does not have krasis. Krasis makes the breathing smooth in ἀδαής and ἀδρανής, but makes it rough in ἁδρός, ἀδινός, and Ἀδριας. For this reason it is better to put a rough breathing on  Ἅδωνις (since people put a smooth breathing on it) because they take the etymology from αἴδειν τῇ δαίμονι.")
 
 The paradigm here is contained in the first line. The scholiast explains that in words where α comes before the δ, but does not have a negative sense or krasis, the breathing on the α tends to be rough. He then provides ἁδρός, ἀδινός, and Ἀδριας as examples of words that fit into the paradigm, and ἀδαής and ἀδρανής as examples of words that do not. The scholiast then mentions that according to the paradigm he just set up, the name Ἅδωνις should have a rough breathing, as he traces the etymology of the name to the phrase "_αἴδειν τῇ δαίμονι_". This is one of the scholia which works backwards to work forwards, confirming the practiced oral reading in order to eventually confirm that a line should be judged Homeric. In order to justify his pronunciation and marking of the text, the scholiast had to first establish a paradigm and demonstrate why a word should be pronounced the way he indicated. Those words which may not obviously fit into a paradigm, or with a significant or obscure root, may require an etymology to justify their use.  
 
@@ -53,6 +63,9 @@ The paradigm here is contained in the first line. The scholiast explains that in
 Lastly, once the scholarly work is complete, the scholiast arrives at the most beautiful facet of the grammatical art. The verbal adjectives in the krisis category refer to words which explicitly state that a judgement must be made on a line's authenticity. For example, consider this scholion:
 
 _ὅτι ὡς προς δύο τοῖς δυϊκοῖς σχήμασι χρῆται δι ὃ ἀθετητέον τὸν προκείμενον στίχον ἐν ᾧ τεσσαρά ἐστιν ὀνόματα_ (Commenting on Iliad 8.191)
+
+(“[The critical sign is here] because he uses the dual form in reference to two items. For this reason, one must athetize the previous line in which there are four names.”)
+
 
 In the passage which it comments on, the poet lists four characters, and then refers to them with the dual form. This is obviously grammatically impossible, leading the scholiast to assert that one must athetize the line in which the four names are listed.
 
