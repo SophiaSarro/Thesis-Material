@@ -96,4 +96,6 @@
 φησι
 vector
 abbr:pers.pers
+abbr_pers_pers
 abbr:place.place
+abbr_place_place
