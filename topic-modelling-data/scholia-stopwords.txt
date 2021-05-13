@@ -95,3 +95,6 @@
 φησιν
 φησι
 vector
+προς
+pers_pers
+place_place
