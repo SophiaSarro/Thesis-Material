@@ -40,7 +40,7 @@
 (*10*) The first use is when indicating that the line (epos) is not Homeric, as was indicated on the line "he delights in the feast and he has as wife Hebe with lovely ankles."
 (*11*) For it is impossible for the one who is perpetually virgin to be given in marriage.
 (*12*) The second use brings the charge (of athetesis) on the grounds that the lines are out of place.
-(*13-14*) Aristarchus says that athetesis should be applied whenever Agamemnon says to Achilles, because the king is indebted to him if the one coming to his aid in battle is this sort of person.
+(*13-14*) Aristarchus says that athetesis should be applied whenever Agamemnon says to Achilles, "war and strife have always been friends to you" because the king is indebted to him if the one coming to his aid in battle is this sort of person.
 (*15*) For this reason, an obelos will be placed on what is said by Agamemnon,
 (*16*) and next to this an asterisk.
 (*17*) Whenever it (the asterisk) appears together with an obelos, it shows that the line is Homeric, but improperly (*faulôs*) placed here.
