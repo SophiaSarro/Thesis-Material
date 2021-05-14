@@ -1,4 +1,4 @@
-| Datasheet for Appendix B: Topic Model Containing All Venetus A Scholia
+| Datasheet for Topic Model A: All Venetus A Scholia
 
 || (1) Motivation
 
