@@ -4,7 +4,7 @@
 
 
 
-## Table A: verbal adjectives categorized by components of the Τέχνη Γραμματική
+## Table A: verbal adjectives categorized by components of the _Τέχνη Γραμματική_
 
 
 | Oral Reading          | Scholarly Work     | Krisis              |
