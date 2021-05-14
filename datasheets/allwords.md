@@ -15,8 +15,8 @@
 - what does each instance consist of?
 - is there a classifying label on each instance?
 - are there relations among instances?
-- errors, sources of noise, redundancies?
-- is the dataset self-contained?  if it relies on external resources, what are archival long-term versions?
+- errors, sources of noise, redundancies? The text has not been lemmatized, leading to the same term appearing multiple times. 
+- is the dataset self-contained?  if it relies on external resources, what are archival long-term versions? Yes, it is self-contained.
 - confidential or sensitive data? No.
 
 
