@@ -48,3 +48,9 @@
 (*19*) when he (the poet) uses the same lines repeatedly, applying what is said to appropriate characters in some cases, and in some cases not, as when the phrase of the most uncivilised Cyclops is spoken to Telemachus by the most intelligent Nestor.
 *20* ""
 *21* For he composed this phrase to be spoken by the Cyclops to Odysseus, not by Nestor to Telemachus.
+
+
+
+# References
+
+
